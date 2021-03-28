@@ -1,0 +1,75 @@
+<html>
+<head>
+<link rel="stylesheet" href="4.css">
+<style>
+body {
+  background-color: linen;
+  font-size:30px;
+  
+}
+
+h1 {
+  color: maroon;
+  margin-left: 40px;
+}
+p {
+  color: yellow;
+  margin-left: 40px;
+  font-family:verdana;
+}
+</style>
+</head>
+<body>
+<h1 style="color:blue;text-align:center;font-size:30px;">WELCOME TO COLLEGE OF ENGINEERING</h1>
+<p style="color:red;font-size:10px;">College of Engineering Vadakara (CEV) formerly known as Co-operative Institute
+of Technology, Vadakara, is the first engineering college under Co-operative Academy of Professional Education (CAPE) 
+established by Govt. of Kerala in the year 1999. This was started with a broad vision of assisting the Government to impart 
+quality education to the meritorious and economically backward students in the State without much financial burden.</p>
+<h1>COLLEGE OF ENGINEERING,VADAKARA</h1>
+
+<P>Department has enough number of class rooms for the smooth conduct of the courses. 
+Moreover new construction over the existing building is being done for creating facilities for
+ Post Graduate programs planning.
+<br>
+All the laboratories are well equipped with advanced systems.
+
+1. Programming Lab 1
+
+2. Programming Lab 2
+
+3. Advanced Programming Lab I
+
+4. Advanced Programming Lab II</p>
+<h2>VISION</h2>
+<h3>Vision
+To be a world class technical education institute, with the highest quality and standards
+ of excellence to meet the demands of business, industry and the community and thereby to
+ contribute to India’s socio-economic progress.</h3>
+</h2>MISSION</h2>
+<h3>
+To develop high quality personnel with a sound footing on basic engineering principles,
+ innovative research capabilities and exemplary professional conduct to lead and to use technology
+ for the progress of mankind, adapting themselves to changing technological environment with the highest
+ ethical values as the inner strength.</h3>
+</body>
+</html>
+
+#4.Css
+
+
+body {
+  background-color: linen;
+  font-size:30px;
+  
+}
+
+h2 {
+  color: maroon;
+  margin-left: 40px;
+  border:2pw;
+}
+h3 {
+  color:green;
+  margin-left: 40px;
+  font-family:verdana;
+}
