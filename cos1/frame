@@ -1,0 +1,66 @@
+#main.html
+
+<html>
+<body>
+<a href="navi.html">navigation frame</a>
+<br>
+<a href="float.html">floating frame</a>
+<br>
+<a href="mix.html">mixed frame</a>
+<br>
+</body>
+</html>
+
+#navi.html
+
+<html>
+<frameset cols="25%,*" scrolling="no" noresize>
+<frame name="one" src="main.html">
+</frame>
+<frame name="two" ></frame>
+<frameset rows="30%,*">
+<frame src="C:\Users\User\Desktop\home.png">
+</frame>
+</frameset>
+</html>
+
+#float.html
+
+<html>
+<body>
+<p> <h3>Information of MCA Department :</h3></p><br>
+<p><strong>The department develops professionals having good knowledge,skills
+and attitude in the field of computer application for the betterment of society and industry</p>
+<iframe src="main.html" height="50%" width="50%">
+</iframe>
+</body>
+</html>
+
+#mix.html
+
+<html>
+<frameset cols="50%,*">
+<frame src="pic.html"></frame>
+<frameset rows="60%,*">
+<frame src="video.html" autostart="true">
+<frame src="video.html" >
+</frameset>
+</frameset>
+</html>
+
+#pic.html
+
+<html>
+<body>
+<img src="C:\Users\User\Desktop\home.png" height="650" width="400">
+</body>
+</html>
+
+#video.html
+
+<html>
+<body bgcolor="aqua">
+<embed src="C:\Users\User\Desktop\home.png" width="600" height="300" autostart="true">
+</embed>
+</body>
+</html>
