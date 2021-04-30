@@ -1,0 +1,13 @@
+<?php
+function hcf($x, $y) {
+  if ($y == 0)
+    return $x;
+  if ($y != 0)
+    return hcf($y, $x%$y);
+}
+
+$x = 5;
+$y = 15;
+
+echo "HCF of $x and $y is: ".hcf($x,$y);
+?>
