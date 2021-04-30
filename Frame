@@ -1,0 +1,47 @@
+<html>
+<frameset cols="50%,*,*">
+<frameset rows="*,*">
+<frame src="1.html">
+<frame src="2.html">
+
+</frameset>
+
+<frame src="3.html">
+<frame src="4.html">
+
+
+
+</frameset>
+
+</html>
+
+1.html
+<html>
+<body bgcolor="orange">
+<h1><center>ORANGE</center></h1>
+</body>
+</html>
+
+2.html
+
+<html>
+<body bgcolor="blue">
+<h1><center>BLUE</center></h1>
+</body>
+</html>
+
+3.html
+
+<html>
+<body bgcolor="red">
+<h1><center>RED</center></h1>
+</body>
+</html>
+
+4.html
+
+<html>
+<body bgcolor="green">
+<h1><center>GREEN</center></h1>
+</body>
+</html>
